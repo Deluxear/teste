@@ -1,0 +1,13 @@
+p{
+    width: 50%;
+    text-align: justify;
+    display: flex;
+}
+
+.imgU{
+    float: left;
+}
+
+.imgD{
+    float: right;
+}
